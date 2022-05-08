@@ -1,7 +1,7 @@
 ::设置模块名字
-SET ToolName=com.lonestar.empty
+SET ToolName=upm
 ::设置模块版本
-SET Tag=0.7.0
+SET Tag=0.8.0
 
 ::设置模块源路径
 SET ToolAssetPath=Packages/com.lonestar.empty
