@@ -1,9 +1,7 @@
 {
-	"name": "test_empty_package",
-	"displayName":"EmptyPackage",
-	"version": "0.1.1",
-	"unity": "2019.1",
-	"description": "空包",
-	"dependencies": {
-	}
+  "name": "xieshou.test_empty_package",
+  "displayName": "EmptyPackage",
+  "version": "0.1.1",
+  "unity": "2019.1",
+  "description": "\u7a7a\u5305"
 }
