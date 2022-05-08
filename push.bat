@@ -7,7 +7,7 @@ SET Tag=0.5.0
 SET ToolAssetPath=Packages/com.lonestar.empty
 
 ::此命令会创建一个ToolName的分支，并同步ToolAssetPath下的内容
-git subtree split --prefex=%ToolAssetPath% --branch %BranchName%
+git subtree split --prefix=%ToolAssetPath% --branch %BranchName%
 :: 在ToolName分支设置标签ToolVersion节点
 git tag %Tag% %BranchName%
 
