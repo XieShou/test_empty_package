@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.undefined.com.lonestar.emoty": {
+    "com.lonestar.empty": {
       "version": "file:com.lonestar.empty",
       "depth": 0,
       "source": "embedded",
@@ -186,12 +186,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.cn"
-    },
-    "xieshou.test_empty_package": {
-      "version": "file:test_empty_package",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
