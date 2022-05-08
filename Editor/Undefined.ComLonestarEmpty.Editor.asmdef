@@ -1,0 +1,10 @@
+{
+    "name": "Undefined.ComLonestarEmpty.Editor",
+    "references": [
+      "Undefined.ComLonestarEmpty"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

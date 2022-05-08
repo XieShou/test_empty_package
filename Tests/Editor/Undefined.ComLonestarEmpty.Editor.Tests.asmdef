@@ -1,0 +1,14 @@
+{
+    "name": "Undefined.ComLonestarEmpty.Editor.Tests",
+    "references": [
+        "Undefined.ComLonestarEmpty.Editor",
+        "Undefined.ComLonestarEmpty"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

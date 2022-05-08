@@ -1,0 +1,11 @@
+{
+    "name": "Undefined.ComLonestarEmpty.Tests",
+    "references": [
+        "Undefined.ComLonestarEmpty"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
